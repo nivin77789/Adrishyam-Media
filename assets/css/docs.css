@@ -865,7 +865,7 @@
   --bs-body-color: var(--bs-white);
   --bs-body-color-rgb: 255, 255, 255;
   --bs-body-bg: var(--bs-blue);
-  --bs-body-bg-rgb:#FAC73D;
+  --bs-body-bg-rgb:#F7A440;
   --bs-tertiary-bg: #0a58ca;
 }
 [data-bs-theme=blue] .dropdown-menu {
